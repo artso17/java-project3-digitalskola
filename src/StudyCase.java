@@ -17,6 +17,7 @@ public class StudyCase {
         
     };
 
+    // Method multiply
     public static int multiply(int[] values) {
         int total = 1;
         for (int i = 0; i < values.length; i++) {
@@ -25,6 +26,7 @@ public class StudyCase {
         return total;
     };
 
+    // Methode isEven
     public static String isEven(int num) {
         String result;
         
@@ -33,7 +35,6 @@ public class StudyCase {
         } else {
             result = "Ganjil";
         } 
-
         return result;
         
     }
