@@ -1,4 +1,4 @@
-# Home Work - Java | Digital Skola Project 3
+# Home Work - Java | Digital Skola
 
 ## Project Brief
 The project was made to gain my Java Knowledge. So, Digital Skola gave me a task to develop application with following instructions:
